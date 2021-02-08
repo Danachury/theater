@@ -1,2 +1,2 @@
 # Theater
-Theater system with Kotlin, Spring and Gradle
+Theater system with Kotlin, Spring, H2 Database, Thymeleaf templating, and Gradle
